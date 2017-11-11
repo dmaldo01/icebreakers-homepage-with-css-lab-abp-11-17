@@ -36,11 +36,6 @@ nav a{
    font-size: 18px;
 
 }
-nav a:hover {
-  text-decoration: underline;
-  color: #01b6b3;
-}
-
 h3:header{
   float:left;
   font-size: 30px;
