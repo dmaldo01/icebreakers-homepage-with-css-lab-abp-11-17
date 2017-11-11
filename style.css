@@ -36,3 +36,6 @@ nav a{
    font-size: 18px;
    
 }
+nav a:hover{
+  text-decoration: underline #0056b3;
+}
