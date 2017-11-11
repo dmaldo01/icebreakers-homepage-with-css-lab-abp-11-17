@@ -10,7 +10,7 @@ body {
 header {
   height: 100px;
   border-bottom: 1px solid #CCC;
-} 
+}
  /*border-bottom-style: solid;
  color: #CCC*/
 
@@ -24,4 +24,8 @@ nav ul {
   margin-bottom: 0px;
 
   padding: 0pxl
+}
+nav ul li {
+  display: inline;
+  margin-right: 10px;
 }
