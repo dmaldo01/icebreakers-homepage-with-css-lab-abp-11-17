@@ -13,3 +13,7 @@ header {
   border-bottom-style: solid;
   color: #CCC
 }
+
+header nav{
+  float: right
+}
