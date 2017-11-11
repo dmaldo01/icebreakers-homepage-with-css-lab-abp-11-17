@@ -9,11 +9,19 @@ body {
 
 header {
   height: 100px;
-  border-bottom: 1px;
-  border-bottom-style: solid;
-  color: #CCC
-}
+  border-bottom: 1px solid #CCC;
+} 
+ /*border-bottom-style: solid;
+ color: #CCC*/
 
 header nav{
   float: right
+}
+nav ul {
+  margin-top: 40px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+
+  padding: 0pxl
 }
